@@ -2,3 +2,26 @@
 @tailwind components;
 @tailwind utilities;
 
+.relative {
+    position: relative;
+  }
+  
+  .absolute {
+    position: absolute;
+  }
+  
+  .top-full {
+    top: 100%;
+  }
+  
+  .right-0 {
+    right: 0;
+  }
+  
+  .mt-2 {
+    margin-top: 0.5rem;
+  }
+  
+  .z-10 {
+    z-index: 10;
+  }
